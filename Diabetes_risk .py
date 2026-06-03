@@ -75,6 +75,27 @@ bot.polling()
 
 
 
+
+
+
+
+
+
+
+#           model_training 
+
+
+
+
+
+
+
+
+
+
+
+
+
 import pandas as pd
 
 
